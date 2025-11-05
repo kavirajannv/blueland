@@ -1,5 +1,9 @@
 **check github url Link :https://kavirajannv.github.io/blueland/**
-it build a modern webpage in hotel food court
+
+
+**
+
+Video :**
 https://github.com/user-attachments/assets/2a6cd4b7-ad59-428b-9ca2-2fd7e17b5afb
 
 # 🌊 Blue Land Website
@@ -39,4 +43,5 @@ It’s ideal for a company, portfolio, or business landing page focusing on **mo
 <img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/ba3bf8fd-b3ac-4905-b452-918d94523cad" />
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/ceab3b1b-8cb5-40f8-8dab-9b2e83973d41" />
 <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/f9d6dbee-6c82-4b8e-aa41-1301e2317a14" />
+
 
